@@ -33,13 +33,13 @@
 
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
-				"Chan": {
-					"4/wsg/ Worksafe Gif"	: "https://boards.4chan.org/wsg/",
-					"4/b/ Random"			: "https://boards.4chan.org/b/",
-					"4/sci/ Science"		: "https://boards.4chan.org/sci/",
-					"8/b/ Random"			: "https://8ch.net/b/index.html"
+				"Tech": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
 				},
-				"Social": {
+				"Tools": {
 					"GitLab"				: "https://gitlab.com/Capuno",
 					"Racó Català"			: "https://www.racocatala.cat/forums",
 					"YouTube"				: "https://www.youtube.com/",
@@ -47,13 +47,13 @@ var sites = {
 					"Reddit"				: "https://reddit.com/",
 					"Twitch"				: "https://twitch.tv/"
 				},
-				"E-Mail": {
+				"Finance": {
 					"GMail"					: "https://mail.google.com/mail/u/0/",
 					"Hotmail"				: "https://outlook.live.com/owa/",
 					"Zoho Mail"				: "https://mail.zoho.eu/zm/#mail/folder/inbox",
 					"Guerrilla Mail"		: "https://www.guerrillamail.com/"
 				},
-				"Data": {
+				"Crypto": {
 					"Financial Times"		: "https://www.ft.com/",
 					"Vilaweb"				: "https://www.vilaweb.cat/",
 					"El Punt Avui"			: "http://www.elpuntavui.cat/barcelona.html",
@@ -63,12 +63,72 @@ var sites = {
 					"SSRN"					: "https://www.ssrn.com/index.cfm/en/"
 					//"OpenComputerScience"	: "http://www.opencomputerscience.com/"
 				},
-				"My stuff": {
+				"Learning": {
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
 					"rice.capuno"			: "https://rice.capuno.cat/"
-				}
+				},
+	            "Gaming": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "Resources": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "Python": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+                "Javascript": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "C and C++": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "CSS": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
+	            "": {
+					"capuno.cat"			: "https://capuno.cat/",
+					"gnu.cat"				: "https://gnu.cat/",
+					"life.capuno"			: "https://life.capuno.cat/",
+					"rice.capuno"			: "https://rice.capuno.cat/"
+				},
 			};
 
 var search = { // Query variable name is q, hardcoded, looks like a standard already anyways
