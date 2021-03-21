@@ -53,14 +53,6 @@ var sites = {
 					"Zoho Mail"				: "https://mail.zoho.eu/zm/#mail/folder/inbox",
 					"Guerrilla Mail"		: "https://www.guerrillamail.com/"
 				},
-				"Games": { // To find the game ID check the url in the store page or the community page
-					"CS:GO"					: "steam://run/730",
-					"Besiege"				: "steam://run/346010",
-					"Rust"					: "steam://run/252490",
-					"Insurgency"			: "steam://run/222880",
-					"West of Loathing"		: "steam://run/597220",
-					"POSTAL 2"				: "steam://run/223470"
-				},
 				"Data": {
 					"Financial Times"		: "https://www.ft.com/",
 					"Vilaweb"				: "https://www.vilaweb.cat/",
