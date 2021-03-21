@@ -85,23 +85,23 @@ var sites = {
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
-					"rice.capuno"			: "https://rice.capuno.cat/"
+					"rice.capuno"			: "https://rice.capuno.cat/",
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
-					"rice.capuno"			: "https://rice.capuno.cat/"
+					"rice.capuno"			: "https://rice.capuno.cat/",
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
-					"rice.capuno"			: "https://rice.capuno.cat/"
+					"rice.capuno"			: "https://rice.capuno.cat/",
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
-					"rice.capuno"			: "https://rice.capuno.cat/"
+					"rice.capuno"			: "https://rice.capuno.cat/",
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
-					"rice.capuno"			: "https://rice.capuno.cat/"
+					"rice.capuno"			: "https://rice.capuno.cat/",
 					"capuno.cat"			: "https://capuno.cat/",
 					"gnu.cat"				: "https://gnu.cat/",
 					"life.capuno"			: "https://life.capuno.cat/",
